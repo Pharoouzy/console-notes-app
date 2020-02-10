@@ -5,6 +5,7 @@ Take notes (title and body) with JSON file via console/terminal. This app is bas
 **node app.js add -t "Title of the note goes here" -b "body/content of the note goes here"**
 
 # List All Notes
-node app.js list
+**node app.js list**
 
 # Read a note
+**node app.js read -t "Title of the note"**
