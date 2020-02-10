@@ -1,0 +1,15 @@
+{
+  "name": "require",
+  "version": "1.0.0",
+  "description": "First Node App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pharoouzy",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "yargs": "^8.0.2"
+  }
+}
